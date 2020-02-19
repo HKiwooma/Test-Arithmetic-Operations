@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "arithmetics.test.js",
   "version": "1.0.0",
   "description": "",
   "main": "arithmetics.js",
@@ -7,9 +7,11 @@
     "test": "jest --verbose ./arithmetics.test.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
+  "author": "Haruna Kiwooma",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "repository": "https://github.com/HKiwooma/Test-Arithmetic-Operations.git"
 }
