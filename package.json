@@ -1,10 +1,10 @@
 {
-  "name": "arithmetics.test.js",
+  "name": "arithmetics.js",
   "version": "1.0.0",
   "description": "",
   "main": "arithmetics.js",
   "scripts": {
-    "test": "jest --verbose ./arithmetics.test.js"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Haruna Kiwooma",
